@@ -37,3 +37,4 @@ vcs.xml
 /learn-flink-java.iml
 /target/classes/log4j2.properties
 /target/maven-archiver/pom.properties
+.DS_Store
